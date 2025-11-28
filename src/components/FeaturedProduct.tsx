@@ -18,7 +18,7 @@ function FeaturedCourses() {
   const featuredCourses = courseData.courses.filter((course: Course) => course.isFeatured)
 
   return (
-    <div className="py-20 bg-[radial-gradient(circle_at_center,_#0a0f1f_0%,_#000_100%)]">
+    <div className="py-20 bg-gray-900">
       {/* New heading */}
       <div className="text-center">
         <h2 className="text-5xl font-bold text-white tracking-tight">
