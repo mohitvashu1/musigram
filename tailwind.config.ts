@@ -17,6 +17,7 @@ function addVariablesForColors({ addBase, theme }: any) {
   });
 }
 
+
 function addSvgPatterns({ matchUtilities, theme }: any) {
   matchUtilities(
     {

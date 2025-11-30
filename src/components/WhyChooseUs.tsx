@@ -28,8 +28,10 @@ const musicSchoolContent = [
 
 function WhyChooseUs() {
   return (
-    <div className="w-full mb-20 pt-10 bg-gray-900">
-  <h2 className="text-center text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-teal-400 via-blue-500 to-purple-600 drop-shadow-xl tracking-tight mb-14">
+    <div className="w-full mb-1 pt-10 bg-gray-900">
+  <h2 className="text-center text-4xl md:text-5xl 
+  font-extrabold text-transparent bg-clip-text bg-gradient-to-r
+   from-teal-400 via-blue-500 to-purple-600 drop-shadow-xl tracking-tight mb-14">
     Why Choose Our Music Academy?
   </h2>
 
